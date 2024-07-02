@@ -23,10 +23,10 @@ Object detection identifies and locates multiple objects in images using algorit
        pip install opencv-python
 
 ### For Mac:
-pip install opencv-python
+    pip install opencv-python
 
 ### For Linux:
-pip install opencv-python
+    pip install opencv-python
 
 ### Example Code Usage:
 pythonCopy code
