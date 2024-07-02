@@ -22,15 +22,15 @@ Object detection identifies and locates multiple objects in images using algorit
     ### For Windows:
        pip install opencv-python
 
-For Mac:
+### For Mac:
 pip install opencv-python
 
-For Linux:
+### For Linux:
 pip install opencv-python
 
-Example Code Usage:
+### Example Code Usage:
 pythonCopy code
-# Importing libraries
+#Importing libraries
 import cv2  # For computer vision tasks like face detection and object detection
 import os   # For operating system related tasks
 
