@@ -29,10 +29,10 @@ Object detection identifies and locates multiple objects in images using algorit
     pip install opencv-python
 
 ### Example Code Usage:
-pythonCopy code
-#Importing libraries
-import cv2  # For computer vision tasks like face detection and object detection
-import os   # For operating system related tasks
+    pythonCopy code
+    #Importing libraries
+    import cv2  # For computer vision tasks like face detection and object detection
+    import os   # For operating system related tasks
 
 ### Summary:
 - **OpenCV**: Essential for image processing, face detection, and object detection.
